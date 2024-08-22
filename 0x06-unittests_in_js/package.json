@@ -1,0 +1,21 @@
+{
+  "name": "0x06-unittests_in_js",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "0-calcul.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint ."
+  },
+  "author": "CHIGODI",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.9.0",
+    "eslint": "^9.9.0",
+    "globals": "^15.9.0"
+  }
+}
